@@ -17,7 +17,6 @@
 * Latest Tkinter version
 * Using keyboard Shortcuts
 
-
 ## Countribute 🤝
 Feel free to contribute
 
