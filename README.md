@@ -1,7 +1,6 @@
 # International-foods-of-countries
 ### Based on Webpage
 
-![main.py](img/rmimg/index.py)
 
 ## Developer Todo 📝
 - [x] [Fixing adding system]()
